@@ -1,5 +1,5 @@
 <template>
-  <div class="flex px-2 lg:p-0 flex-col items-center justify-center min-h-screen bg-cover bg-no-repeat bg-center bg-[url(@/assets/img/6708068_3399733.jpg)]">
+  <div class="flex px-2 lg:p-0 flex-col items-center justify-center min-h-screen bg-cover bg-no-repeat bg-center bg-[url(@/assets/img/soundwaves-coming-out-from-human-ear.jpg)]">
 
     <!-- <div class="absolute">
       <img
